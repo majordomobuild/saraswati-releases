@@ -1,11 +1,11 @@
 {
-  "version": "0.37.0",
-  "notes": "Saraswati saraswati-v0.37.0",
-  "pub_date": "2026-07-29T12:40:46Z",
+  "version": "0.38.0",
+  "notes": "Saraswati saraswati-v0.38.0",
+  "pub_date": "2026-07-29T21:26:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMWZBUXozU0dFQzNidXpUUERPNXRlMzZLUkQrTVJZNldiLzRnc2gvb01kTWExZGNFbDNaT3k0UGNhY0JQZnhONjFVazBKYTJ4ODI1VTJVWjJ3WjBCNjBCQncwRWd3MndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzI4NjU0CWZpbGU6U2FyYXN3YXRpLmFwcC50YXIuZ3oKS0lYWTgzc2xGV1VmeWJvbUg2MEpjY0pINUhSN1E5ZlpFb09CMExLcG9IWFZBSldsUVk1U1MwcTljOUx5Wk5YMzBMOTk1KzZMaCthZFdhajJZSGY1QUE9PQo=",
-      "url": "https://github.com/majordomobuild/saraswati-releases/releases/download/saraswati-v0.37.0/Saraswati.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMWZBUXozU0dFQzRBWCtGM2MrS3NPcjFOUnBHMXJ4NlIrRmh4a1lnSi9rVE9ENEU4RkVHZmI3ZjRHc1FQSVdEaE1yQnB2Vi9GVWtETnRuV2w3NGtaVDBHTUUyZVJ1MUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzYwMTg2CWZpbGU6U2FyYXN3YXRpLmFwcC50YXIuZ3oKRWN6QUVjOG5CZDEyUVZiK1drZ3NVelBUK2Q4Q05QZFJYSEJqTlZEMHROZEhUYmExZ2xBWmJiM2tQckg1b3NnRnpad3h6MkhabE9tYnZRL04rSlRDQXc9PQo=",
+      "url": "https://github.com/majordomobuild/saraswati-releases/releases/download/saraswati-v0.38.0/Saraswati.app.tar.gz"
     }
   }
 }
