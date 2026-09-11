@@ -1,11 +1,11 @@
 {
-  "version": "0.54.1",
-  "notes": "Lotus lotus-v0.54.1",
-  "pub_date": "2026-09-11T00:49:07Z",
+  "version": "0.54.2",
+  "notes": "Lotus lotus-v0.54.2",
+  "pub_date": "2026-09-11T02:44:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMWZBUXozU0dFQzN5bzdxMmFTa3orOHV2OXZNTXV2QkZRemhGSEhpYS96MWpOajhvNkZDK09CK3FJd1dJQmRDVHhJUXNhaG5hbGFXTmlzOHA1TEtrVjVoMmp5N3ltK1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDg3NTY0CWZpbGU6TG90dXMuYXBwLnRhci5negpPelM4YWJPRzM0bzBZN2lNRmNEYW12Q0VNZlRpWDZ3RVdlZlhqMWRqa3ZGU3RzUGk2RVdTT3JKSzliOTB0b01DdncyL0xWV0owbkxMV21wOVhqbnBCUT09Cg==",
-      "url": "https://github.com/majordomobuild/saraswati-releases/releases/download/lotus-v0.54.1/Lotus.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMWZBUXozU0dFQzRhd2NsT1BkalN3V3RBcUNVaTM2KzZHOWxNVnl0MFlSbjE2Nkc4eUJ1MUdQUW1hK2g3TVBnSnlERWRTSVdkWXdYV2VXemU0cm41emU5MDgreCtwcFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDk0NDk3CWZpbGU6TG90dXMuYXBwLnRhci5negprMUlsV3Z1SFhsaHllYzM4OGVISHhMbGF6L0lpMEtwVFBhOEVqQXpabUozVlpDZEpWNldLYmhUcTZhQy9Va3BGRTVoWWQ3MXR6RDVwSXRId2g4a2hCQT09Cg==",
+      "url": "https://github.com/majordomobuild/saraswati-releases/releases/download/lotus-v0.54.2/Lotus.app.tar.gz"
     }
   }
 }
